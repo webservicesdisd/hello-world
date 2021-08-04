@@ -1,2 +1,2 @@
 # hello-world
-Just another repository-first eidt done
+Just another repository-first edit done
